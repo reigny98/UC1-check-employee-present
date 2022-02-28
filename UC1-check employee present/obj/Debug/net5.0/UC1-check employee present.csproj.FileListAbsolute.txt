@@ -1,0 +1,16 @@
+C:\Users\churchill paul\source\repos\UC1-check employee present\UC1-check employee present\bin\Debug\net5.0\UC1-check employee present.exe
+C:\Users\churchill paul\source\repos\UC1-check employee present\UC1-check employee present\bin\Debug\net5.0\UC1-check employee present.deps.json
+C:\Users\churchill paul\source\repos\UC1-check employee present\UC1-check employee present\bin\Debug\net5.0\UC1-check employee present.runtimeconfig.json
+C:\Users\churchill paul\source\repos\UC1-check employee present\UC1-check employee present\bin\Debug\net5.0\UC1-check employee present.runtimeconfig.dev.json
+C:\Users\churchill paul\source\repos\UC1-check employee present\UC1-check employee present\bin\Debug\net5.0\UC1-check employee present.dll
+C:\Users\churchill paul\source\repos\UC1-check employee present\UC1-check employee present\bin\Debug\net5.0\UC1-check employee present.pdb
+C:\Users\churchill paul\source\repos\UC1-check employee present\UC1-check employee present\obj\Debug\net5.0\UC1-check employee present.csproj.AssemblyReference.cache
+C:\Users\churchill paul\source\repos\UC1-check employee present\UC1-check employee present\obj\Debug\net5.0\UC1-check employee present.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\churchill paul\source\repos\UC1-check employee present\UC1-check employee present\obj\Debug\net5.0\UC1-check employee present.AssemblyInfoInputs.cache
+C:\Users\churchill paul\source\repos\UC1-check employee present\UC1-check employee present\obj\Debug\net5.0\UC1-check employee present.AssemblyInfo.cs
+C:\Users\churchill paul\source\repos\UC1-check employee present\UC1-check employee present\obj\Debug\net5.0\UC1-check employee present.csproj.CoreCompileInputs.cache
+C:\Users\churchill paul\source\repos\UC1-check employee present\UC1-check employee present\obj\Debug\net5.0\UC1-check employee present.dll
+C:\Users\churchill paul\source\repos\UC1-check employee present\UC1-check employee present\obj\Debug\net5.0\refint\UC1-check employee present.dll
+C:\Users\churchill paul\source\repos\UC1-check employee present\UC1-check employee present\obj\Debug\net5.0\UC1-check employee present.pdb
+C:\Users\churchill paul\source\repos\UC1-check employee present\UC1-check employee present\obj\Debug\net5.0\UC1-check employee present.genruntimeconfig.cache
+C:\Users\churchill paul\source\repos\UC1-check employee present\UC1-check employee present\obj\Debug\net5.0\ref\UC1-check employee present.dll
